@@ -1,4 +1,5 @@
-# Comparable-Company-Analysis-TCS-vs-Wipro-FY-2024-2025-
+# Comparable-Company-Analysis-TCS-vs-Wipro-FY-2024-2025
+
 A financial analysis project comparing TCS and Wipro using income statements, valuation multiples, cost structures, and KPIs. The study delivers insights into profitability, efficiency, and market positioning through data-driven financial modeling and benchmarking.
 
 🎯 Task
@@ -8,12 +9,14 @@ Profitability and margins
 Valuation multiples
 Operational efficiency
 Industry positioning
+
 🛠️ Tools & Technologies
 Microsoft Excel / Financial Modeling
 IFRS & Ind AS Financial Statements
 Data Analysis Techniques
 Valuation Models (EV/EBITDA, P/E, DCF)
 Market Data & Consensus Estimates
+
 ⚙️ Actions Performed
 Collected financial data from annual reports and public disclosures
 Standardized currency (USD & INR conversion)
@@ -21,6 +24,7 @@ Built structured financial models
 Conducted ratio and margin analysis
 Developed valuation models and sensitivity analysis
 Benchmarked against industry peers
+
 🔄 Process
 Data Collection
 TCS IFRS data and Wipro financial statements
@@ -37,6 +41,7 @@ EV/Revenue, EV/EBITDA, P/E ratios
 DCF assumptions and scenario analysis
 Benchmarking
 Compared with Infosys, HCL Tech, Tech Mahindra, LTIMindtree
+
 📈 Key Results & Insights
 💡 Performance
 TCS achieved ~3.8% revenue growth, maintaining strong stability
@@ -53,6 +58,7 @@ Wipro trades at lower multiples due to weaker performance
 🧠 Strategic Insight
 TCS shows strong positioning in AI and large client growth
 Wipro faces margin compression and higher financial pressure
+
 📂 Project Structure
 Comps Analysis
 │── Income Statement Analysis
@@ -61,7 +67,9 @@ Comps Analysis
 │── Cash Flow Analysis
 │── Valuation Models
 │── Peer Benchmarking
+
 📌 Conclusion
 This project highlights that TCS is a market leader with superior profitability, efficiency, and valuation premium, while Wipro faces operational and financial challenges, reflected in weaker margins and growth.
+
 ⚠️ Disclaimer
 This project is for academic purposes only and does not constitute investment advice.
